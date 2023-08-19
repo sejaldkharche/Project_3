@@ -12,7 +12,7 @@ class Unpacker
         String Tokens[];
         int iCount=0;
 
-        System.out.println("----------- Marvellous Packer Unpacker ----------- ");
+        System.out.println("----------- File Packer Unpacker ----------- ");
         System.out.println("Unpacking Actvity of the appication is started...");
 
         System.out.println("Enter the file name which contains the packed data : ");
@@ -46,7 +46,7 @@ class Unpacker
             System.out.println("Total number of files Extracted : "+iCount);
           
 
-            System.out.println("Thank you for using Marvellous Packer Unpacker..");
+            System.out.println("Thank you for using File Packer Unpacker..");
       
         }
         catch(Exception obj)
